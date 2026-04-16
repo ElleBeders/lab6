@@ -15,6 +15,9 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="338" height="343" alt="image" src="https://github.com/user-attachments/assets/233a400d-c6c4-41e7-bd5b-a14d8220fa46" />
+<img width="358" height="373" alt="image" src="https://github.com/user-attachments/assets/b5c04ec5-fd33-428c-a75c-2d2254eb1544" />
+
 
 
 
