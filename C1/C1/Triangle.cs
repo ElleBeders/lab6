@@ -23,19 +23,49 @@ internal class Triangle
     public int A
     {
         get { return a; }
-        set { a = value > 0 ? value : 1; }
+        set 
+        { 
+            if (value > 0)
+            {
+                a = value;
+            }
+            else
+            {
+                a = 1;
+            }
+        }
     }
 
     public int B
     {
         get { return b; }
-        set { b = value > 0 ? value : 1; }
+        set
+        {
+            if (value > 0)
+            {
+                b = value;
+            }
+            else
+            {
+                b = 1;
+            }
+        }
     }
 
     public int C
     {
         get { return c; }
-        set { c = value > 0 ? value : 1; }
+        set
+        {
+            if (value > 0)
+            {
+                c = value;
+            }
+            else
+            {
+                c = 1;
+            }
+        }
     }
 
     public int GetMinSide()
